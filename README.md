@@ -1,5 +1,5 @@
 
-# News Application
+# InfiniNews
 
 
 Technologies used :-
@@ -17,7 +17,7 @@ Features :-
 
 1. Fetch the data from News API
 2. Links to original news
-3. Infinite Scrolling
+3. Infinite Scrolling(this is why it is named InfiniNews)
 
 
 -----------------------------------------------------------------
