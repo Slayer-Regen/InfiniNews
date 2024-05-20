@@ -20,16 +20,16 @@ Features :-
 3. Infinite Scrolling(this is why it is named InfiniNews)
 
 
------------------------------------------------------------------
+-----------------------------------------------------------------!
+
 Screenshots :-
 
-News page -
+Home page -
 
-![Screenshot (623)](https://user-images.githubusercontent.com/97386407/225880358-34f1ff11-8491-432d-a3bc-786338e8d1f5.png)
+[Screenshot 2024-05-19 164532](https://github.com/Slayer-Regen/InfiniNews/assets/150517260/391fb982-67c8-49ba-b14d-beeb81818cd8)
 
-Info module -
 
-![Screenshot (625)](https://user-images.githubusercontent.com/97386407/225880758-7c8789cf-18fa-4814-a152-df812d8b87d7.png)
+
 
 
 
