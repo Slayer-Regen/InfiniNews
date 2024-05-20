@@ -26,7 +26,7 @@ Screenshots :-
 
 Home page -
 
-[Screenshot 2024-05-19 164532](https://github.com/Slayer-Regen/InfiniNews/assets/150517260/391fb982-67c8-49ba-b14d-beeb81818cd8)
+[InfiniNEWS](https://github.com/Slayer-Regen/InfiniNews/assets/150517260/391fb982-67c8-49ba-b14d-beeb81818cd8)
 
 
 
